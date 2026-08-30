@@ -1,0 +1,6 @@
+{
+  "name": "Cookie Drive",
+  "description": "An arcade car driving game where you steer through traffic, collect delicious cookies, activate power-ups, and unlock sweet vehicles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
